@@ -10,8 +10,8 @@ void dev3(void);
 
 int main()
 {
-    dev1();
-    dev2();
+    // dev1();
+    // dev2();
        
     return 0;
 }
@@ -21,7 +21,7 @@ int main()
 
 void dev1(void)
 {
-    printf("dev1\r\b");
+    printf("dev2\r\b");
 }
 void dev2(void)
 {
