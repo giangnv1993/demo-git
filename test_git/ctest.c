@@ -4,7 +4,7 @@
 
 void dev1(void);
 void dev2(void);
-
+void dev3(void);
 
 
 
@@ -26,4 +26,9 @@ void dev1(void)
 void dev2(void)
 {
     printf("dev2");
+}
+
+void dev3(void)
+{
+    printf("dev3\r\b");
 }
