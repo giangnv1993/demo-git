@@ -1,3 +1,5 @@
 add to git
 
 creat conflic
+
+sao khong dc
