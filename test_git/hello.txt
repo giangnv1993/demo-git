@@ -8,3 +8,6 @@ creat conflic
 sao khong dc
 
 thu lai
+
+
+Giang test from ubuntu
